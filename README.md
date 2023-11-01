@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Food-Truck App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Foodie is food-truck app that allows customers to make orders, view current menu items, and get in touch. 
+
+## Screenchots
+
+## Technologies Used 
+
+## Getting Started 
+
+## FUture Runctionality Improvements
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -67,4 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
