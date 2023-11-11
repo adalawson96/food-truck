@@ -1,0 +1,75 @@
+/* Carousel */
+.carousel-inner img{
+    width: 100%; 
+    /* height: 50%; */
+    /* object-fit: cover;  */
+    object-fit: auto;
+}
+
+#carouselAutoplaying {
+    height: 30rem;
+    overflow: hidden;
+}
+
+/* Text Below */
+.subHeading h3{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 5%;
+    font-weight: 300;
+    color: rgb(186, 162, 67);
+    font-size: 2rem;
+}
+
+/* Upcoming Events Section*/
+.upcoming-events{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-weight: 300;
+    color: rgb(186, 162, 67);
+    padding-bottom: 9rem;
+}
+
+.upcoming-events button {
+    background-color: #585b5dc4;
+    border-radius: 1rem;
+    color: white;
+    border: none;
+    padding: .6rem 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Add a transition for smooth color change */
+}
+
+.upcoming-events button:hover {
+    background-color: rgb(200, 171, 56); 
+}
+
+/* Restaurant info section */
+.restaurant h1, .restaurant h3, .restaurant button {
+    display: flex;
+    justify-content: flex-end;
+    line-height: 1.5;
+  }
+
+.btn {
+    margin-left: auto;
+    text-transform: uppercase;
+}
+
+.restaurant {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding-top: 10rem;
+    padding-right: 2rem;
+    background-image: url('https://i.imgur.com/QKGo2yK.pngg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 35rem; 
+    color: white;  
+    font-size: 36px; 
+  };
+
