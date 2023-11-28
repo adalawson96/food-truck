@@ -31,7 +31,7 @@
 //     <nav id="mainNavbar" className="navbar navbar-expand-lg bg-body-tertiary" ref={navbarRef}>
 //         <div className="container-fluid">
 //         <a className="navbar-brand" href="/">
-//             <img src="./tennisLogo.png" alt="Logo" width="50" height="55" className="d-inline-block align-text-top" />
+//             <img src="./logo.png" alt="Logo" width="50" height="55" className="d-inline-block align-text-top" />
 //             Break Point
 //         </a>
 //         <button className="navbar-toggler" type="button" onClick={handleToggle} aria-label="Toggle navigation">
@@ -45,9 +45,9 @@
 //             <li className="nav-item">
 //                 <a className="nav-link" href="/restaurant">Restaurant</a>
 //             </li>
-//             <NavDropdown title="School" id="school-dropdown">
-//             <NavDropdown.Item href="/school/courses">Courses</NavDropdown.Item>
-//             <NavDropdown.Item href="/school/staff">Staff</NavDropdown.Item>
+//             {/* <NavDropdown title="School" id="school-dropdown"> */}
+//             {/* <NavDropdown.Item href="/school/courses">Courses</NavDropdown.Item> */}
+//             {/* <NavDropdown.Item href="/school/staff">Staff</NavDropdown.Item> */}
 //             {/* <NavDropdown.Item href="/school/about">About</NavDropdown.Item> */}
 //             </NavDropdown>
 //             </ul>

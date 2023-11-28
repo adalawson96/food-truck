@@ -6,13 +6,13 @@ export default function Footer(){
         <footer>
             <div className="footer">
                 <div className="col-1">
-                <img src="./tennisLogo.png" alt="Logo" />
+                <img src="./logo.png" alt="Logo" />
                 </div>
                 {/* <!-- INSERT MAP? --> */}
                 <div className="col-2">
                 <div className="flex-container">
                     <div className="black-rectangle">
-                    <h5>Aldeamento Moinhos do Mar, R.6, Clube de Ténis, Ericeira - PORTUGAL</h5>
+                    <h5>Find our location on our instagram story! </h5>
                     </div>
                 </div>
                 </div>
@@ -27,7 +27,7 @@ export default function Footer(){
                     <a href="https://www.facebook.com/breakpointericeira" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>{<i className="fab fa-facebook"></i>}</a>
                     <a href="https://www.instagram.com/breakpoint.ericeira/" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>{<i className="fab fa-instagram"></i>}</a>
                 </div>
-                <h5>©2023, Break Point</h5>
+                <h5>©2023, Southern Delite</h5>
                 </div>
             </div>
         </footer>
